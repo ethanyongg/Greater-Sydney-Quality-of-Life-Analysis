@@ -1,7 +1,6 @@
 # Greater-Sydney-Quality-of-Life-Analysis
 
-In this anaylsis, We worked with a variety of datatypes including geojson, shape files, and csv files. These datasets were uploaded into a local SQL server where we would later
-retreive the data for analysis. 
+In this anaylsis, We worked with a variety of datatypes including **geojson**, **shape (.shp)**, and **csv** files. These datasets were uploaded into a local SQL server where we would later retreive the data for analysis. 
 
 We then used this data to create a standardised "well resourced" score to determine the quality of life of each Greater Sydney Suburb.
 
